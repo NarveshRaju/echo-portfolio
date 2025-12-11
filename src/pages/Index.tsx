@@ -34,6 +34,7 @@ const Index = () => {
   const stats = [
     { icon: Trophy, label: "Achievements", value: "50+", color: "text-accent" },
     { icon: Code, label: "Projects", value: "30+", color: "text-primary" },
+    { icon: Briefcase, label: "Hackathons", value: "10+", color: "text-accent" },
     { icon: GraduationCap, label: "Certifications", value: "25+", color: "text-primary" },
   ];
 
